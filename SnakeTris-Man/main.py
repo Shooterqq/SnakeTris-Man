@@ -2,8 +2,8 @@ import pygame
 import random
 import math
 
-WIDTH = 1200
-HEIGHT = 920
+WIDTH = 800
+HEIGHT = 600
 CELL = 20
 
 FPS = 10
